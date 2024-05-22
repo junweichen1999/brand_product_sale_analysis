@@ -8,3 +8,13 @@
 - 銷售佔比總量之 前20%:成功
 - 銷售佔比總量之 前40%:普通
 - 銷售佔比總量之 剩餘60%: 不建議推出之商品
+
+
+## EVN Requirements
+```bash
+$ pip install numpy
+$ pip install pandas
+$ pip install scikit-learn
+$ pip install matplotlib
+$ pip install seaborn
+```
